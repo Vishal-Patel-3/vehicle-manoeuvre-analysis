@@ -2,10 +2,10 @@
 
 **Dataset**
 
-The data is sourced from the UK Department for Transport road safety dataset:
+The data is sourced from the UK Department for Transport road safety dataset:  
 https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-vehicle-provisional-2025.csv
 
-The dataset contains coded variables (e.g. manoeuvre type, age band, sex). The meanings of these codes were obtained from the official data guide:
+The dataset contains coded variables (e.g. manoeuvre type, age band, sex). The meanings of these codes were obtained from the official data guide:  
 https://assets.publishing.service.gov.uk/media/691c6440e39a085bda43eed6/dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2024.xlsx
 
 These coded variables were recoded into descriptive categories and, where appropriate, grouped into broader classifications to improve interpretability.
